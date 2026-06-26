@@ -4,7 +4,7 @@ A standardized, production-ready project repository layout designed for machine 
 
 ---
 
-## 📂 Folder Structure Overview
+## Folder Structure Overview
 
 ```text
 project-root/
@@ -23,7 +23,7 @@ project-root/
 ├── README.md           # High-level project guidelines and setup instructions
 └── requirements.txt    # Frozen dependency manifest (e.g., pytest)
 
-🚀 Quick Start Setup Instructions
+Quick Start Setup Instructions
 
 Follow these steps sequentially to configure your local runtime workspace on your Ubuntu environment.
 1. Clone the Repository
@@ -56,7 +56,7 @@ Bash
 pip install --upgrade pip
 pip install -r requirements.txt
 
-🧪 How to Run Automated Tests
+How to Run Automated Tests
 
 Our architecture leverages pytest as the core testing engine to guarantee functional module stability.
 
