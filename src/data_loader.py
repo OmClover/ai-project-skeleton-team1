@@ -2,7 +2,7 @@ import csv
 import os
 
 def load_csv(filepath):
-    """
+    """ d
     Reads a CSV file and converts its rows into a list of dictionaries.
     
     :param filepath: str, the path to the target CSV file
