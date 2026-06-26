@@ -4,7 +4,7 @@ Thank you for contributing to our Capstone AI Project! To maintain a clean commi
 
 ---
 
-## 🛠️ 1. Cloning the Repository & Virtual Environment Setup
+##  1. Cloning the Repository & Virtual Environment Setup
 
 Always ensure you isolate your runtime environments before working on project modules to avoid dependency conflicts.
 
@@ -39,7 +39,7 @@ Always ensure you isolate your runtime environments before working on project mo
     pip install --upgrade pip
     pip install -r requirements.txt
 
-🌿 2. Branch Naming Conventions
+2. Branch Naming Conventions
 
 Direct pushes to the main branch are strictly prohibited by our branch protection parameters. All development tasks must be executed on distinct feature branches built from an updated main branch.
 Feature Branch Structure:
@@ -57,7 +57,7 @@ Examples:
 
     feature/issue-3-model
 
-💬 3. Commit Message Standards (Conventional Commits)
+3. Commit Message Standards (Conventional Commits)
 
 Our repository enforces the Conventional Commits standard to guarantee a clear, logical, and fully auditable git commit log (git log --oneline --all). Every commit message must use a structural, lowercase type prefix followed by an operational description written in the present tense, with a total length under 60 characters.
 Permitted Type Prefixes:
@@ -74,7 +74,7 @@ Permitted Type Prefixes:
 
     chore — Maintenance operations, updating configurations, dependencies, or structural additions to .gitignore
 
-🔍 4. The Pull Request (PR) & Code Peer Review Process
+4. The Pull Request (PR) & Code Peer Review Process
 
 To guarantee code quality control across the team, our branch protection rule requires at least 1 peer review approval before any contribution merges into main.
 The Development Cycle:
